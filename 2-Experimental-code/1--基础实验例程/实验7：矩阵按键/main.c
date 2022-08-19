@@ -20,10 +20,10 @@ typedef unsigned char u8;
 
 u8 KeyValue;	//用来存放读取到的键值
 
-
+//数码管
 u8 code smgduan[17]={0xc0,0xf9,0xa4,0xb0,0x99,0x92,0x82,0xf8,
 					0x80,0x90,0x88,0x83,0xc6,0xa1,0x86,0x8e};//显示0~F的值
-
+//
 /*******************************************************************************
 * 函 数 名         : delay
 * 函数功能		   : 延时函数，i=1时，大约延时10us
@@ -52,10 +52,10 @@ void KeyDown(void)
 			GPIO_KEY=0X0F;
 			switch(GPIO_KEY)
 			{
-				case(0X07):	KeyValue=0;break;
-				case(0X0b):	KeyValue=1;break;
-				case(0X0d): KeyValue=2;break;
-				case(0X0e):	KeyValue=3;break;
+				case(0X07):	KeyValue=0;break; //0111
+				case(0X0b):	KeyValue=1;break; //1011
+				case(0X0d): KeyValue=2;break; //1101
+				case(0X0e):	KeyValue=3;break; //1110
 			}
 			//测试行
 			GPIO_KEY=0XF0;

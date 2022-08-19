@@ -1,0 +1,72 @@
+C51 COMPILER V9.54   MAIN                                                                  08/17/2022 01:03:22 PAGE 1   
+
+
+C51 COMPILER V9.54, COMPILATION OF MODULE MAIN
+OBJECT MODULE PLACED IN main.OBJ
+COMPILER INVOKED BY: D:\Keil_v5\C51\BIN\C51.EXE main.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND
+
+line level    source
+
+   1          /**************************************************************************************
+   2          PWN
+   3          
+   4          ***********************************/
+   5          
+   6          #include "reg52.h"                       //此文件中定义了单片机的一些特殊功能寄存器
+   7           
+   8          #define Led10 P2
+   9          typedef unsigned int u16;
+  10           
+  11          int atime = 64;
+  12           
+  13          // 仅作为延时, pms取值区间为 0 - 64
+  14          void delay(u16 pms) {
+  15   1        u16 x, y;
+  16   1        for (x=pms; x>0; x--) {
+  17   2          for (y=11; y>0; y--);
+  18   2        }
+  19   1      }
+  20           
+  21          // 这里控制占空比, i取值区间为 0 - 64, 
+  22          // i越大脉冲宽度越低, 因为输出是低位点亮, 所以i越大LED越亮
+  23          void ledfade(u16 i) {
+  24   1        Led10 = 0;
+  25   1        delay(i);
+  26   1        Led10 = 1;
+  27   1        delay(atime-i);
+  28   1      }
+  29           
+  30          int main(void) {
+  31   1        u16 a, b;
+  32   1        // 每个循环, 小灯
+  33   1        while(1) {
+  34   2          // a增大, 脉冲宽度降, 亮度增
+  35   2          for (a=0; a<atime; a++) {
+  36   3            for (b=0; b < (atime - a)/4; b++) {
+  37   4              ledfade(a);
+  38   4            }
+  39   3          }
+  40   2          // a减小, 脉冲宽度增, 亮度降
+  41   2          for (a=atime; a>0; a--) {
+  42   3            for (b=0; b < (atime - a)/4; b++) {
+  43   4              ledfade(a);
+  44   4            }
+  45   3          }
+  46   2        }
+  47   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    209    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =      2       2
+C51 COMPILER V9.54   MAIN                                                                  08/17/2022 01:03:22 PAGE 2   
+
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)
