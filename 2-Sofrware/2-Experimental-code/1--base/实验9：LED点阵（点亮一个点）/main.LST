@@ -1,0 +1,101 @@
+C51 COMPILER V9.54   MAIN                                                                  09/01/2022 20:07:26 PAGE 1   
+
+
+C51 COMPILER V9.54, COMPILATION OF MODULE MAIN
+OBJECT MODULE PLACED IN main.OBJ
+COMPILER INVOKED BY: D:\Keil_v5\C51\BIN\C51.EXE main.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND
+
+line level    source
+
+   1          /**************************************************************************************
+   2          实验现象：下载程序后，LED点阵左上角第一个点的LED被点亮果
+   3                            
+   4          接线说明： (具体接线图可见开发攻略对应实验的“实验现象”章节)
+   5                  
+   6          注意事项：                                                                                                                                                              
+   7          ***************************************************************************************/
+   8          
+   9          #include "reg51.h"                       //此文件中定义了单片机的一些特殊功能寄存器
+  10          #include "intrins.h"
+  11          
+  12          typedef unsigned int u16;         //对数据类型进行声明定义
+  13          typedef unsigned char u8;
+  14          
+  15          //--定义使用的IO口--//
+  16          sbit SRCLK=P3^6;
+  17          sbit RCLK=P3^5;
+  18          sbit SER=P3^4;
+  19          sbit LED=P0^7;
+  20          /*******************************************************************************
+  21          * 函 数 名         : Hc595SendByte(u8 dat1,u8 dat2)
+  22          * 函数功能                 : 通过595发送2个字节的数据
+  23          * 输    入         : dat1：第2个595输出数值
+  24          *                  * dat2: 第1个595输出数值
+  25          * 输    出         : 无
+  26          *******************************************************************************/
+  27          void Hc595SendByte(u8 dat1,u8 dat2)
+  28          {
+  29   1              u8 a;
+  30   1      
+  31   1              SRCLK = 1;
+  32   1              RCLK = 1;
+  33   1      
+  34   1              for(a=0;a<8;a++)                 //发送8位数
+  35   1              {
+  36   2                      SER = dat1 >> 7;                 //从最高位开始发送
+  37   2                      dat1 <<= 1;
+  38   2      
+  39   2                      SRCLK = 0;                       //发送时序
+  40   2                      _nop_();
+  41   2                      _nop_();
+  42   2                      SRCLK = 1;      
+  43   2              }
+  44   1      
+  45   1              for(a=0;a<8;a++)                 //发送8位数
+  46   1              {
+  47   2                      SER = dat2 >> 7;                 //从最高位开始发送
+  48   2                      dat2 <<= 1;
+  49   2      
+  50   2                      SRCLK = 0;                       //发送时序
+  51   2                      _nop_();
+  52   2                      _nop_();
+  53   2                      SRCLK = 1;      
+  54   2              }
+  55   1      
+C51 COMPILER V9.54   MAIN                                                                  09/01/2022 20:07:26 PAGE 2   
+
+  56   1              RCLK = 0;
+  57   1              _nop_();
+  58   1              _nop_();
+  59   1              RCLK = 1;
+  60   1      }
+  61          
+  62          
+  63          /*******************************************************************************
+  64          * 函 数 名       : main
+  65          * 函数功能               : 主函数
+  66          * 输    入       : 无
+  67          * 输    出       : 无
+  68          *******************************************************************************/
+  69          void main()
+  70          {       LED=0;  //使第一列为低电平。
+  71   1              
+  72   1              while(1)
+  73   1              {
+  74   2                 Hc595SendByte(0xfe,0x01);
+  75   2              }               
+  76   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =     76    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

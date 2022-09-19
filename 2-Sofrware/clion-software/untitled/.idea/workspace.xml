@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Project" targetName="Debug" />
+      <config projectName="Project" targetName="Production" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="STC89C52RC" CONFIG_NAME="STC89C52RC" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9b4f4a4-624e-4fbc-a5a8-1b38002bb0df" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/template.plg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/template_uvopt.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验10：LED点阵(显示数字)/template_uvproj.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验11：直流电机/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验11：直流电机/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验11：直流电机/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验11：直流电机/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验11：直流电机/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验11：直流电机/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验11：直流电机/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验12：外部中断0/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验12：外部中断0/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验12：外部中断0/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验12：外部中断0/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验12：外部中断0/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验12：外部中断0/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验12：外部中断0/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验12：外部中断0/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验12：外部中断0/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验12：外部中断0/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验12：外部中断0/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验13：外部中断1/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验13：外部中断1/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验13：外部中断1/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验13：外部中断1/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验13：外部中断1/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验13：外部中断1/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验13：外部中断1/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验14：定时器0中断/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验14：定时器0中断/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验14：定时器0中断/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验14：定时器0中断/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验14：定时器0中断/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验14：定时器0中断/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验14：定时器0中断/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验15：定时器1中断/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验15：定时器1中断/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验15：定时器1中断/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验15：定时器1中断/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验15：定时器1中断/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验15：定时器1中断/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验15：定时器1中断/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验15：定时器1中断/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验15：定时器1中断/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验15：定时器1中断/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验15：定时器1中断/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验15：定时器1中断/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/i2c.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/i2c.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/i2c.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/i2c.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/template.uvgui.11868" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验16：EEPROM-IIC/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/temp.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/temp.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/temp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/temp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验17：DS18B20温度传感器/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/ds1302.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/ds1302.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/ds1302.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/ds1302.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验18：DS1302时钟/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验19：红外通信/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验19：红外通信/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验19：红外通信/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验19：红外通信/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验19：红外通信/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验19：红外通信/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验19：红外通信/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验19：红外通信/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验19：红外通信/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验19：红外通信/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验19：红外通信/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验19：红外通信/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/Protues/Last Loaded emulation.pdsbak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/Protues/emulation.pdsprj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/Protues/emulation.pdsprj.DESKTOP-PIAU0DQ.11868.workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/template.uvgui.11868" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验1：点亮第一个LED/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/XPT2046.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/XPT2046.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/XPT2046.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/XPT2046.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/光敏电阻AD值/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/XPT2046.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/XPT2046.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/XPT2046.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/XPT2046.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/外部输入AD值/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/XPT2046.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/XPT2046.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/XPT2046.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/XPT2046.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/热敏电阻AD值/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/XPT2046.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/XPT2046.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/XPT2046.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/XPT2046.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验20：AD模数转换/电位器AD值/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验21：DA数模转换/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验21：DA数模转换/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验21：DA数模转换/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验21：DA数模转换/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验21：DA数模转换/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验21：DA数模转换/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验21：DA数模转换/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验21：DA数模转换/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/lcd.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/lcd.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/lcd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/lcd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/template.uvgui.11868" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验22：LCD1602液晶/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/12864数据手册.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/12864转接原理图.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/LCD12864使用教程/mini LCD12864使用教程.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/LCD12864使用教程/mini LCD12864使用教程.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/ST7565p数据手册.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/m12864.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/刷屏效果图.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/接线图.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/程序/STARTUP.A51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/程序/charcode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/程序/keilkilll.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/程序/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/程序/pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/程序/pro.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/程序/pro.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/程序/pro.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/程序/pro.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/程序/pro.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/程序/st7565.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/刷屏/程序/st7565.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/文字取模软件的使用说明/zimo.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/文字取模软件的使用说明/取字模软件.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/接线图.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片/程序/STARTUP.A51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片/程序/charcode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片/程序/keilkilll.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片/程序/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片/程序/pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片/程序/pro.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片/程序/pro.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片/程序/pro.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片/程序/pro.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片/程序/pro.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片/程序/st7565.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片/程序/st7565.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/显示图片效果图.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/程序/STARTUP.A51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/程序/charcode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/程序/keilkilll.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/程序/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/程序/pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/程序/pro.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/程序/pro.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/程序/pro.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/程序/pro.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/程序/pro.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/程序/st7565.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示图片/程序/st7565.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/接线图.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/显示文字效果图.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/STARTUP.A51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/charcode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/keilkilll.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/pro.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/pro.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/pro.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/pro.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/pro.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/pro_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/st7565.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验23：LCD12864液晶/显示文字/程序/st7565.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/APP/tftlcd/font.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/APP/tftlcd/picture.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/APP/tftlcd/tftlcd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/APP/tftlcd/tftlcd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/APP/touch/touch.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/APP/touch/touch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/GUI/gui.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/GUI/gui.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/gui.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/gui.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/main.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/main.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/public.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/public.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/template.m51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/template.plg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/tftlcd.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/tftlcd.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/touch.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/touch.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/uart.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Output/uart.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Public/public.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Public/public.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Public/uart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/Public/uart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/User/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/template.uvgui_Administrator.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/template_uvopt.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/1，TFTLCD显示实验/template_uvproj.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/APP/tftlcd/font.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/APP/tftlcd/picture.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/APP/tftlcd/tftlcd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/APP/tftlcd/tftlcd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/APP/touch/touch.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/APP/touch/touch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/GUI/gui.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/GUI/gui.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/gui.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/gui.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/main.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/main.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/public.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/public.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/template.m51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/template.plg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/tftlcd.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/tftlcd.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/tftlcd.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/touch.__i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/touch.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/touch.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/uart.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Output/uart.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Public/public.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Public/public.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Public/uart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/Public/uart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/User/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/template.uvgui_Administrator.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/template_uvopt.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/2，触摸屏实验/template_uvproj.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验24：TFTLCD液晶实验/图片显示-样板图.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/Protues/emulation.pdsprj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/template.uvgui.11868" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验2：LED闪烁/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验3：LED流水灯/Protues/emulation.pdsprj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验3：LED流水灯/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验3：LED流水灯/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验3：LED流水灯/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验3：LED流水灯/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验3：LED流水灯/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验3：LED流水灯/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验3：LED流水灯/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验3：LED流水灯/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验3：LED流水灯/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验3：LED流水灯/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验3：LED流水灯/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/Protues/emulation.pdsprj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/template.plg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/template.uvgui.11868" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/template_uvopt.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验4：蜂鸣器/template_uvproj.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/Protues/Backup Of emulation.pdsbak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/Protues/Last Loaded emulation.pdsbak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/Protues/emulation.pdsprj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/Protues/emulation.pdsprj.DESKTOP-PIAU0DQ.11868.workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/Protues/tu.pdsprj.DESKTOP-PIAU0DQ.11868.workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/template.uvgui.11868" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验5：动态数码管显示/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/Protues/Backup Of emulation.pdsbak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/Protues/Last Loaded emulation.pdsbak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/Protues/emulation.pdsprj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/Protues/emulation.pdsprj.DESKTOP-PIAU0DQ.11868.workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/template.uvgui.11868" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验6：独立按键/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/Protues/Backup Of emulation.pdsbak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/Protues/Last Loaded emulation.pdsbak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/Protues/emulation.pdsprj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/Protues/emulation.pdsprj.DESKTOP-PIAU0DQ.11868.workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/template.uvgui.11868" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验7：矩阵按键/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/template.uvgui.11868" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/template.uvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验8：单片机IO扩展--74HC595/template_Target 1.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/Protues/Last Loaded emulation.pdsbak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/Protues/emulation.pdsprj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/Protues/emulation.pdsprj.DESKTOP-PIAU0DQ.11868.workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/main.LST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/main.OBJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/template.M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/template.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/template.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/template.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/template.uvgui.11868" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/template.uvgui.Administrator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/template.uvopt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-Experimental-code/1--基础实验例程/实验9：LED点阵（点亮一个点）/template.uvproj" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2EscUzaVLIrvdcdbXezFbxIqXgP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PlatformIO 调试" type="platformio" factoryName="PlatformIO Debug" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Debug" CONFIG_NAME="STC89C52RC" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatformIO 上传" type="platformio" factoryName="PlatformIO Upload" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="Production" CONFIG_NAME="STC89C52RC" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="Production">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9b4f4a4-624e-4fbc-a5a8-1b38002bb0df" name="默认的" comment="" />
+      <created>1663387751906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663387751906</updated>
+      <workItem from="1663387753429" duration="3180000" />
+      <workItem from="1663470996924" duration="80000" />
+      <workItem from="1663471088329" duration="409000" />
+      <workItem from="1663471522427" duration="53000" />
+      <workItem from="1663471599361" duration="129000" />
+      <workItem from="1663471752990" duration="302000" />
+      <workItem from="1663481444867" duration="192000" />
+      <workItem from="1663481652679" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1173" height="176" key="GridCell.Tab.0.bottom" timestamp="1663392044062">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1173" height="176" key="GridCell.Tab.0.bottom/0.0.1218.720@0.0.1218.720" timestamp="1663392044062" />
+    <state width="1173" height="176" key="GridCell.Tab.0.center" timestamp="1663392044062">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1173" height="176" key="GridCell.Tab.0.center/0.0.1218.720@0.0.1218.720" timestamp="1663392044062" />
+    <state width="1173" height="176" key="GridCell.Tab.0.left" timestamp="1663392044062">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1173" height="176" key="GridCell.Tab.0.left/0.0.1218.720@0.0.1218.720" timestamp="1663392044062" />
+    <state width="1173" height="176" key="GridCell.Tab.0.right" timestamp="1663392044062">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1173" height="176" key="GridCell.Tab.0.right/0.0.1218.720@0.0.1218.720" timestamp="1663392044062" />
+    <state x="79" y="0" width="1139" height="720" key="SettingsEditor" timestamp="1663481665944">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="79" y="0" width="1139" height="720" key="SettingsEditor/0.0.1218.720@0.0.1218.720" timestamp="1663481665944" />
+    <state x="595" y="0" width="623" height="720" key="find.popup" timestamp="1663392041685">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="595" y="0" width="623" height="720" key="find.popup/0.0.1218.720@0.0.1218.720" timestamp="1663392041685" />
+  </component>
+</project>
