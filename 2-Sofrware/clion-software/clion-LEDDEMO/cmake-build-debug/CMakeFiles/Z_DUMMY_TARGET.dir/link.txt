@@ -1,0 +1,1 @@
+D:\mingw64\bin\c++.exe --opt-code-size --peep-return -mmcs51 -g CMakeFiles/Z_DUMMY_TARGET.dir/src/delay.cpp.obj CMakeFiles/Z_DUMMY_TARGET.dir/src/main.c.obj -o Z_DUMMY_TARGET 

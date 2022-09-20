@@ -1,0 +1,23 @@
+D:\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S E:\GitHub\STC51\2-Sofrware\clion-software\clion-LEDDEMO -B E:\GitHub\STC51\2-Sofrware\clion-software\clion-LEDDEMO\cmake-build-debug
+-- Configuring done
+CMake Error at CMakeLists.txt:33 (add_executable):
+  Cannot find source file:
+
+    src/delay.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+
+
+CMake Error at CMakeLists.txt:33 (add_executable):
+  No SOURCES given to target: Z_DUMMY_TARGET
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
+
+收集编译器信息时遇到问题:
+	意外编译器输出。这个编译器可能不受支持。
+	如果您使用的是 GCC/Clang，请在 https://youtrack.jetbrains.com/issues/CPP 报告这个错误。
+	c++.exe: error: unrecognized command line option '--opt-code-size'; did you mean '--optimize'?
+	c++.exe: error: unrecognized command line option '--peep-return'; did you mean '--mem-report'?
+	c++.exe: error: unrecognized command line option '-mmcs51'
