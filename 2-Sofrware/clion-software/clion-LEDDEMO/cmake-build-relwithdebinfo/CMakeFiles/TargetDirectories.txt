@@ -1,5 +1,0 @@
-E:/GitHub/STC51/2-Sofrware/clion-software/clion-LEDDEMO/cmake-build-relwithdebinfo/CMakeFiles/Production.dir
-E:/GitHub/STC51/2-Sofrware/clion-software/clion-LEDDEMO/cmake-build-relwithdebinfo/CMakeFiles/Debug.dir
-E:/GitHub/STC51/2-Sofrware/clion-software/clion-LEDDEMO/cmake-build-relwithdebinfo/CMakeFiles/Z_DUMMY_TARGET.dir
-E:/GitHub/STC51/2-Sofrware/clion-software/clion-LEDDEMO/cmake-build-relwithdebinfo/CMakeFiles/edit_cache.dir
-E:/GitHub/STC51/2-Sofrware/clion-software/clion-LEDDEMO/cmake-build-relwithdebinfo/CMakeFiles/rebuild_cache.dir

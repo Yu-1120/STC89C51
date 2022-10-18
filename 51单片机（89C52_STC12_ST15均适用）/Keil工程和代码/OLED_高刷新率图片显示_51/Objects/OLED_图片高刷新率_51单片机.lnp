@@ -1,0 +1,4 @@
+".\Objects\main.obj",
+".\Objects\oled.obj" 
+TO ".\Objects\OLED_图片高刷新率_51单片机" 
+PRINT(".\Listings\OLED_图片高刷新率_51单片机.m51") DISABLEWARNING (16) 

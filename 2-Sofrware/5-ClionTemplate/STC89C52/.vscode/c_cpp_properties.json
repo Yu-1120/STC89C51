@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "e:/GitHub/STC89C52/2-Sofrware/5-ClionTemplate/STC89C52/include",
+                "e:/GitHub/STC89C52/2-Sofrware/5-ClionTemplate/STC89C52/src",
+                "e:/GitHub/STC89C52/2-Sofrware/5-ClionTemplate/STC89C52",
+                "",
+                "C:/Users/11868/.platformio/packages/toolchain-sdcc/include/mcs51"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "e:/GitHub/STC89C52/2-Sofrware/5-ClionTemplate/STC89C52/include",
+                    "e:/GitHub/STC89C52/2-Sofrware/5-ClionTemplate/STC89C52/src",
+                    "e:/GitHub/STC89C52/2-Sofrware/5-ClionTemplate/STC89C52",
+                    ""
+                ]
+            },
+            "defines": [
+                "F_CPU=11059200L",
+                "HEAP_SIZE=128",
+                "PLATFORMIO=60104",
+                "STC89C5XRX",
+                "STC89C52RC",
+                "NAKED_ARCH_MCS51",
+                "NAKED_MCS51_STC89C5XRX",
+                ""
+            ],
+            "compilerPath": "C:/Users/11868/.platformio/packages/toolchain-sdcc/bin/sdcc.exe",
+            "compilerArgs": [
+                "-mmcs51",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
